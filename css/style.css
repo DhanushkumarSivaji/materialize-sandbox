@@ -1,0 +1,29 @@
+/* html {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+/* .input-group{
+  display:table;
+  width:100%;
+}
+.input-group .input-field,
+.input-group .input-group-addon{
+  display:table-cell;
+} */
+
+/* input[type=search]:not(.browser-default):focus:not([readonly]){
+  border:1px solid black !important;
+}
+
+.input-field input[type=search]:focus{
+  border:1px solid black !important;
+} */
+
+/* 
+.input-field input[type=search]{
+  border:1px solid black !important;
+  border-radius: 10px;
+}
+
+.input-field input[type=search]:focus{
+  border:1px solid green !important;
+} */
